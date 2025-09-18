@@ -21,7 +21,7 @@ SmartArt-IoT/
 ```
 ## Pic Of Project
 [Alt text](path/to/11.jpg)
-[Alt text](path/to/11.jpg)
+[Alt text](path/to/Untitled Sketch_bb.png)
 ## Quick start
 
 1. **Clone & enter**  
