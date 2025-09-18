@@ -20,8 +20,8 @@ SmartArt-IoT/
 └── .github/workflows/             # CI for Python lint & tests
 ```
 ## Pic Of Project
-[Alt text](path/to/11.jpg)
-[Alt text](path/to/Untitled Sketch_bb.png)
+[Alt text](11.jpg)
+
 ## Quick start
 
 1. **Clone & enter**  
