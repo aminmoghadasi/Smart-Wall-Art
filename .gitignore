@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+.venv*/
+.ipynb_checkpoints
+
+# C++/Arduino
+build/
+*.bin
+*.elf
+*.map
+*.hex
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+**/.env
+**/.env.local
+*.token
