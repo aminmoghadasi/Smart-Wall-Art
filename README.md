@@ -20,6 +20,8 @@ SmartArt-IoT/
 └── .github/workflows/             # CI for Python lint & tests
 ```
 ## Pic Of Project
+![Demo Screenshot](https://github.com/aminmoghadasi/Smart-Wall-Art/blob/main/Untitled%20Sketch_bb.png?raw=true)
+
 [Alt text](11.jpg)
 
 ## Quick start
