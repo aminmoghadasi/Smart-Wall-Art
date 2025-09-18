@@ -24,7 +24,7 @@ SmartArt-IoT/
 
 1. **Clone & enter**  
    ```bash
-   git clone <YOUR-REPO-URL> SmartArt-IoT
+   git clone Smart-Wall-Art-IoT
    cd SmartArt-IoT
    ```
 
