@@ -19,7 +19,9 @@ SmartArt-IoT/
 ├── docs/                          # LaTeX/Overleaf report and images
 └── .github/workflows/             # CI for Python lint & tests
 ```
-
+## Pic Of Project
+[Alt text](path/to/11.jpg)
+[Alt text](path/to/11.jpg)
 ## Quick start
 
 1. **Clone & enter**  
